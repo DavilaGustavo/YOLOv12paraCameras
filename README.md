@@ -6,8 +6,10 @@ O repositório apresenta uma implementação do modelo pré treinado do YOLOv12 
 - Dataset [Real Time Anomaly Detection in CCTV Surveillance](https://www.kaggle.com/datasets/webadvisor/real-time-anomaly-detection-in-cctv-surveillance).
 
 ## Resultados
-A aplicação deste modelo em imagens capturadas por câmeras mostra resultados positivos, especialmente considerando a baixa resolução presente nessas imagens, esses resultados se mostram constantes considerando o escopo de 10 frames por vídeo, utilizando 15 vídeos.
-Alguns dos resultados obtidos:
+A aplicação deste modelo em imagens capturadas por câmeras mostra resultados positivos, especialmente considerando a baixa resolução presente nessas imagens, esses resultados se mostram constantes utilizando um escopo de 10 frames de cada um dos 15 vídeos.
+
+Resultados obtidos:
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b4cb02c-5778-482c-a15d-77bdc83668f5"/>
 </p>
